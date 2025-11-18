@@ -1,9 +1,7 @@
 # Hi, I'm Rios 👋
 
-I'm a **Software Engineering student** driven by the desire to **apply computer science to solve real-world problems** and **improve the efficiency of modern systems**. 
-I’m also deeply passionate about **science** and exploring how technology can advance our understanding of the world.  
-
-I specialize in **application development** across **web, mobile, and desktop platforms**, while applying **Clean Code principles** and **Design Patterns** to build robust, maintainable architectures.
+I'm a Software Engineering student passionate about building efficient, real-world applications. 
+Experienced in web, mobile, and desktop development, applying Clean Code and Design Patterns for maintainable systems.
 
 ## 🔭 Currently Working On
 - Building scalable and efficient applications with **React, Node.js, and Java**
